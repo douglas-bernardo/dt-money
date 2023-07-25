@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Developing web systems",
+      "type": "income",
+      "category": "Sale",
+      "price": 17000,
+      "createdAt": "2023-07-23T23:26:07.063Z"
+    },
+    {
+      "id": 2,
+      "description": "Macbook Pro M1 16pol 512Gb",
+      "type": "outcome",
+      "category": "Immobilized",
+      "price": 14999,
+      "createdAt": "2023-07-23T23:26:07.063Z"
+    }
+  ]
+}
