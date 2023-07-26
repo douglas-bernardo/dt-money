@@ -15,6 +15,14 @@
       "category": "Immobilized",
       "price": 14999,
       "createdAt": "2023-07-23T23:26:07.063Z"
+    },
+    {
+      "description": "Internet",
+      "price": 100,
+      "category": "Despesas",
+      "type": "outcome",
+      "createdAt": "2023-07-25T23:52:35.900Z",
+      "id": 3
     }
   ]
 }
